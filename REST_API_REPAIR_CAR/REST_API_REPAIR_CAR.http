@@ -1,0 +1,6 @@
+@REST_API_REPAIR_CAR_HostAddress = http://localhost:5172
+
+GET {{REST_API_REPAIR_CAR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
